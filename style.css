@@ -1,0 +1,8 @@
+body{
+    background-color: lightblue;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
